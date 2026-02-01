@@ -295,7 +295,9 @@ checkClear()
 ---
 
 # 画面イメージ
-![Uploading ChatGPT Image 2026年2月1日 23_48_06.png…]()
+
+<img width="1536" height="1024" alt="ChatGPT Image 2026年2月1日 23_48_06" src="https://github.com/user-attachments/assets/a804107f-0c11-4166-b83b-dd9350299d82" />
+
 
 # その他
 起動方法
