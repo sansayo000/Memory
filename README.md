@@ -294,4 +294,17 @@ checkClear()
 
 ---
 
+# 画面イメージ
+![Uploading ChatGPT Image 2026年2月1日 23_48_06.png…]()
+
+# その他
+起動方法
+Dockerを使用する場合:
+
+docker-compose up
+ブラウザで http://localhost:8080 にアクセスしてください。
+
+
+
+
 以上
